@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1535817520 source:/home/alumno/Escritorio/Segunda CDA/tp/main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1535817733 /home/alumno/Escritorio/Segunda CDA/tp/function.h
+
+1523661943 source:/home/alumno/Escritorio/Segunda CDA/tp/function.c
+
