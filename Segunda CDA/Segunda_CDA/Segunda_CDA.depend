@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535810599 source:/home/alumno/Escritorio/Segunda CDA/Segunda_CDA/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
