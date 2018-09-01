@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1535814786 source:/home/alumno/Escritorio/Segunda CDA/Segunda_CDA/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"math.h"
+
+1535815190 /home/alumno/Escritorio/Segunda CDA/Segunda_CDA/math.h
+
